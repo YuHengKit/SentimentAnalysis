@@ -11,12 +11,12 @@ SST-5 Malay is translated from SST-5 using Google translate API in **Google Tran
 
 - bert_en = trained SST (english) on BERT
 - bert_malay = trained SST(malay) on BERT
-- bert_en+malay= trained SST( english+malay) on BERT
+- bert_en+malay= trained SST(english+malay) on BERT
 - mbert_en = trained SST (english) on mBERT
 - mbert_malay = trained SST(malay) on mBERT
 - mbert_en+malay= trained SST( english+malay) on mBERT
 
 Dataset for experiments:
-- English dataset = our pure 8k english dataset
-- Malay dataset = our pure 8k malay dataset
-- English + Malay dataset = 4k english + 4k malay dataset
+- English dataset = SST 8k english dataset and tested with our pure english dataset
+- Malay dataset = SST 8k malay dataset and tested with our pure malay  dataset
+- English + Malay dataset = 4k english + 4k malay dataset and tested with our english + malay dataset
