@@ -6,6 +6,7 @@ SST-5 Malay is translated from SST-5 using Google translate API in **Google Tran
 
 
 # Results 
+![alt text](https://github.com/YuHengKit/SentimentAnalysis/blob/main/sst.png?raw=true)
 ![alt text](https://github.com/YuHengKit/SentimentAnalysis/blob/main/comparison.png?raw=true)
 
 - bert_en = trained SST (english) on BERT
